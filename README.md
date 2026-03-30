@@ -33,3 +33,26 @@ Most devs have never touched hardware. Most hardware guys write code like it's 1
 ---
 
 ## 💀 Skills That Pay My Bills (And Fund My Bad Decisions)
+
+
+
+
+
+---
+
+## 📫 Find Me Before I Find You
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link](https://www.linkedin.com/in/umar-mubashar-toor/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](umtoor96@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umtee_96)
+
+---
+
+**No blockchain. No web3. No NFT bullshit.**  
+If you need industrial systems that don't crash, hardware that thinks, or C++ code that won't make your engineers cry at 3am, we should talk.
+
+---
+
+*"Software eats the world. Hardware keeps it from catching fire. My brain does both."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=geetu040&color=orange&style=flat-square&label=people+who+visited+my+chaos)
