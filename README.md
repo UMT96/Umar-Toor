@@ -3,8 +3,7 @@
 
 **Electrical engineer. Brain shorted somewhere between Ohm's law and coding. Now I also program industries.**
 
-I build systems that control **actual physical infrastructure**. Not your CRUD app. Not another todo list.  
-Oil pipelines. Factory floors. FPGAs that do math at the speed of light. Systems where "it crashed" means real money lost or people hurt.
+I build systems that run real, heavy‑duty physical infrastructure—not another CRUD app or yet another todo list. Think oil pipelines, factory floors, FPGAs doing math at the speed of light. Systems where “it crashed” doesn’t mean a pop‑up error; it means bags of money burning or people getting hurt. This is the kind of code where uptime isn’t a feature, it’s a goddamn requirement.
 
 I used to design circuits. Now I make machines think. The irony isn't lost on me.
 
